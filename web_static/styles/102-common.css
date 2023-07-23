@@ -1,0 +1,26 @@
+/*
+ * === global style ===
+ */
+
+/* body style */
+body {
+  color: #484848;
+  font: 14px Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* block horizontal scrolling */
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* container style */
+.container {
+  margin: 30px auto;
+  max-width: 1000px;
+}
+
+/* strong style */
+strong {
+  font-weight: bold;
+}
